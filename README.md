@@ -1,4 +1,5 @@
- Telecom Churn Analysis Project – Summary
+ Telecom Churn Analysis Project 
+ 
 This project focuses on analyzing customer churn data from a telecom company to identify trends, business opportunities, and customer retention strategies using Python libraries such as pandas, matplotlib, and seaborn.
 
 🔍 Key Objectives:
